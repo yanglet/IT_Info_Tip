@@ -1,2 +1,5 @@
 # IT_Info_Tip
-연합동아리, 부트캠프, 등등 여러 IT개발직군 꿀팁
+
+[대학생 IT 연합 동아리 정보 모음](https://velog.io/@prayme/대학생-IT-연합-동아리-정보-모음-feat.-RUFree-주니어#YAPP)
+
+
