@@ -4,3 +4,4 @@
 
 - [SOPT 좋은 후기](https://yull-study-code.tistory.com/8) 
 - [개발자 멘토링 F-Lab](https://github.com/f-lab-edu)
+- [취준생 ](https://post.naver.com/viewer/postView.naver?volumeNo=33306720&memberNo=9520310&vType=VERTICAL)
