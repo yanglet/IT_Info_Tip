@@ -12,6 +12,8 @@
 - [채용 챌린지](https://programmers.co.kr/competitions)
 
 
+### [주니어 개발자 채용 공고](https://github.com/jojoldu/junior-recruit-scheduler)
+
 
 ### 네카라쿠배당토직야 채용!
 
