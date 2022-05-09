@@ -14,6 +14,7 @@
 
 ### 부트캠프 정보 ( Saffy, 우테코, 부스트캠프 등 )
 - [부트캠프 정보 모음](https://boottent.sayun.studio/camps)
+- [42서울](https://www.42seoul.kr/seoul42/contents/view?contentsNo=14&level=2&menuNo=30)
 
 ### 네카라쿠배당토직야 채용
 - [네이버](https://recruit.navercorp.com/naver/job/list/developer)
