@@ -26,3 +26,13 @@
 - [토스](https://toss.im/career/jobs)
 - [직방](https://career.zigbang.com/career)
 - [야놀자](https://careers.yanolja.co/content/All-Jobs/?locale=ko_KR&previewLink=true&referrerSave=false)
+
+### 참고하면 좋은 기술 블로그
+- [우아한 형제들](https://techblog.woowahan.com/)
+- [라인](https://engineering.linecorp.com/ko/blog/)
+- [직방](https://medium.com/zigbang)
+- [토스](https://toss.tech/)
+- [무신사](https://medium.com/musinsa-tech)
+- [넷플릭스](https://netflixtechblog.com/)
+- [왓챠](https://medium.com/watcha)
+- [개발자스럽다](https://blog.gaerae.com/search/label/newsletter)
