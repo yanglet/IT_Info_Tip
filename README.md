@@ -12,6 +12,7 @@
 
 ### 주니어 개발자 채용 공고 모음
 - [주니어 개발자 채용 공고](https://github.com/jojoldu/junior-recruit-scheduler)
+- [LG 유플러스 채용연계형 인턴 7월 20일까지](https://apply.lg.com/app/job/RetrieveJobNotices.rpi)
 
 ### 부트캠프 정보 ( Saffy, 우테코, 부스트캠프 등 )
 - [부트캠프 정보 모음](https://boottent.sayun.studio/camps)
