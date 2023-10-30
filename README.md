@@ -35,6 +35,7 @@
 - [요기요](https://www.wesang.com/career/apply)
 - [지마켓](https://careers.gmarket.com/jobs)
 - [티맥스](https://tmaxcareers.ninehire.site/recruit)
+- [NHN](https://recruit.nhn.com/ent/recruitings?type=company)
 
 ### 참고하면 좋은 기술 블로그
 - [우아한 형제들](https://techblog.woowahan.com/)
