@@ -40,6 +40,8 @@
 - [요기요](https://www.wesang.com/career/apply)
 - [지마켓](https://careers.gmarket.com/jobs)
 - [번개장터](https://team.bgzt.co.kr/)
+- [우리에프아이에스](https://woorifis.careerlink.kr/jobs)
+- [하나금융티아이](https://hanati.recruiter.co.kr/app/jobnotice/list)
 
 ### 참고하면 좋은 기술 블로그
 - [우아한 형제들](https://techblog.woowahan.com/)
