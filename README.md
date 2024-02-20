@@ -24,6 +24,7 @@
 - [배달의민족](https://career.woowahan.com/?jobCodes&employmentTypeCodes=&serviceSectionCodes=&careerPeriod=&keyword=&category=jobGroupCodes%3ABA005001&fbclid=IwAR1SDMBF6WjfUZ1WV-JrCYxYyAGBf92r-Au1TQ0seGgOuT0ZuAT7XUilsGg#recruit-listㅍ)
 - [당근](https://team.daangn.com/jobs/)
 - [토스](https://toss.im/career/jobs)
+- [오늘의집](https://www.bucketplace.com/careers/?region=&team=dev)
 - [직방](https://career.zigbang.com/career)
 - [야놀자](https://careers.yanolja.co/content/All-Jobs/?locale=ko_KR&previewLink=true&referrerSave=false)
 - [KT](https://recruit.kt.com/careers)
@@ -34,8 +35,7 @@
 - [여기어때](https://gccompany.career.greetinghr.com/)
 - [요기요](https://www.wesang.com/career/apply)
 - [지마켓](https://careers.gmarket.com/jobs)
-- [티맥스](https://tmaxcareers.ninehire.site/recruit)
-- [NHN](https://recruit.nhn.com/ent/recruitings?type=company)
+- [번개장터](https://team.bgzt.co.kr/)
 
 ### 참고하면 좋은 기술 블로그
 - [우아한 형제들](https://techblog.woowahan.com/)
